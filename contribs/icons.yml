@@ -135,7 +135,7 @@ aisecure:
 aivideos:
   - com.asustor.aivideo/com.asustor.aivideo.launcher.LauncherActivity
 
-bus_&_tram:
+bus_and_tram:
   - travel.ticketless.app.lothian/travel.ticketless.app.activities.splashScreen.SplashScreenActivity
 
 charts:
